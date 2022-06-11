@@ -1,0 +1,11 @@
+﻿model_name,type,manufacturer,primary_market,battery_capacity,max_passenger_load,curb_weight,gvwr,length,height,width_no_mirrors,hvac,interior_height,brochure
+XE40 Xcelsior CHARGE - Articulated,Articulated,New Flyer,North America,525,61,45500,,60,11.083,8.5,Thermo King RLFE (front) TE15 (rear),6.6-7.9,https://www.newflyer.com/site-content/uploads/2021/12/Xcelsior-CHARGE-NG-Brochure.pdf
+XE40 Xcelsior CHARGE,Transit,New Flyer,"North America (CTA, MBTA, Winnipeg, NYMTA)",350,40,31000,,41,11.083,8.5,Thermo King RLFE (rear),6.6-7.9,https://www.newflyer.com/site-content/uploads/2021/12/Xcelsior-CHARGE-NG-Brochure.pdf
+Proterra - Catalyst BE40 FC+ Series,Transit,Proterra,"North America (WMATA, SEPTA, NYMTA, CTA)",105,40,27500,39050,42.5,11.167,8.5,Overhead integrated system,,https://www.proterra.com/wp-content/uploads/2016/08/Proterra-Catalyst-Vehicle-Specs.pdf
+Proterra - ZX5,Transit,Proterra,North America,225,40,26649,43650,42.5,10.667,8.5,Overhead integrated system,,https://www.proterra.com/wp-content/uploads/2021/11/ZX5-PROTERRA-_SPEC_40_Q4_2021.pdf
+Proterra - S1LF,Shuttle,Optimal & Proterra,North America,113,22,14500,14500,26.6,9.158,8.5,,6.55,https://www.optimal-ev.com/s1
+EV Star,Mini Bus,GreenPower,North America,118,20,14330,14330,25,9.708,6.6,"39,239 BTU/h (front, rear, electric)",6.25,https://greenpowermotor.com/pdfs/Brochures/GP-EV-Star-Brochure-USA-09262021.pdf
+Cite SLFA-180,Articulated,VDL,Europe,240,135,41888,63934,59.055,10.794,8.5,"Air-cooled, electrically heated",7.9,https://www.buildersbuses.net/public/encite.pdf
+BYD - K11M,Articulated,BYD,"North America (AVTA, Las Cruces)",578,55,53150,67450,60.7,11.167,8.5,,,https://en.byd.com/bus/k11m/
+Van Hool - CX45E,Coach,Van Hool,North America,676,56,44313,54000,45.583,11.5,8.5,,,https://www.vanhool.be/uploads/models/file_en/66/leaflet_CX45E_ENG_screen.pdf
+BYD - K7M,Transit,BYD,North America,215,22,23545,31967,30.7,10.667,7.975,,,https://en.byd.com/bus/k7m/
